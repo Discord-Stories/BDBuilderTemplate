@@ -1,0 +1,1 @@
+npx bdbuilder --plugin="./src" --build --bdbuilder.config.json

@@ -1,0 +1,8 @@
+{
+  "build": {
+    "watch": true,
+    "folder": "./src",
+    "readme": true,
+    "filename": "index.tsx"
+  }
+}
