@@ -2,7 +2,7 @@
   "build": {
     "watch": true,
     "folder": "./src",
-    "readme": true,
-    "filename": "index.tsx"
+    "readme": false,
+    "filename": "pluginname.plugin.js"
   }
 }

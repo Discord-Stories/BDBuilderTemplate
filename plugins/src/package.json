@@ -2,9 +2,9 @@
   "info": {
     "name": "discord-stories",
     "type": "betterdiscord-plugin",
-    "description": "Discord Stories, just like how Instagram stories works, but on BetterDiscord.",
-    "author": "Pickaxe828#4395",
-    "version": "0.0.1"
+    "description": "description",
+    "author": "authorname",
+    "version": "versionnumber"
   },
   "build": {
     "release": true
